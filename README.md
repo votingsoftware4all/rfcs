@@ -135,5 +135,5 @@ In general, once accepted, RFCs should not be substantially changed. Only very
 minor changes should be submitted as amendments. More substantial changes
 should be new RFCs, with a note added to the original RFC. 
 
-[RFC issue tracker]: https://github.com/rust-lang/rfcs/issues
-[RFC repository]: http://github.com/rust-lang/rfcs
+[RFC issue tracker]: https://github.com/votingsoftware4all/rfcs/issues
+[RFC repository]: http://github.com/votingsoftware4all/rfcs
